@@ -5,3 +5,4 @@ Welcome to my **Ultimate Python Bootcamp** for all. You will master python progr
 ## Course Contents:
 1. [Day 1: Introduction & Installation of Python](/day01/)
 2. [Day 2: First Program](/day02/)
+3. [Day 3: Variables, Datatypes & Typecasting](/day03/)
