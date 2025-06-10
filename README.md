@@ -7,3 +7,4 @@ Welcome to my **Ultimate Python Bootcamp** for all. You will master python progr
 2. [Day 2: First Program](/day02/)
 3. [Day 3: Variables, Datatypes & Typecasting](/day03/)
 4. [Day 4: Operators in Python](/day04/)
+5. [Day 5: Conditionals in Python](/day05/)
