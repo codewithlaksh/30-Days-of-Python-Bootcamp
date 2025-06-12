@@ -9,3 +9,4 @@ Welcome to my **Ultimate Python Bootcamp** for all. You will master python progr
 4. [Day 4: Operators in Python](/day04/)
 5. [Day 5: Conditionals in Python](/day05/)
 6. [Day 6: Loops in Python](/day06/)
+7. [Day 7: Pattern Printing in Python](/day07/)
